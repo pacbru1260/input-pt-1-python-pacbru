@@ -1,0 +1,8 @@
+nome = input("Öla, insira o seu nome?\n")
+print("Ola, %s" % nome)
+idade = input("Insira a sua idade:\n")
+print("Voce tem %s anos" %idade)
+pais = input("Em que pais voce nasceu?\n")
+print("Voce nasceu no(a) %s" % pais)
+musica = input("Qual a sua musica favorita?\n")
+print("Ëu tambem gosto dessa musica!")
